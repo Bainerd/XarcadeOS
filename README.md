@@ -9,6 +9,6 @@ XarcadeOS:
 
 To use XarcadeOS:
 1) Install to target system
-2) Add a ROM file to a USB flash drive
+2) Add a ROM (file or set) to the root of a USB flash drive (Do not have any other zip files here!)
 3) Boot the system!
 
