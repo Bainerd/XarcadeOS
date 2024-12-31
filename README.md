@@ -12,3 +12,5 @@ To use XarcadeOS:
 2) Add a ROM (file or set) to the root of a USB flash drive (Do not have any other zip files here!)
 3) Boot the system!
 
+Get ROMs here: https://archive.org/download/mame-0.221-roms-merged
+
