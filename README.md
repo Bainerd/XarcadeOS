@@ -15,5 +15,5 @@ To use XarcadeOS:
 3) Boot the system!
 
 Get the vdi here: https://drive.google.com/file/d/1ese76NoRI7dWC_lusQtRU02-_XpId_IK/view?usp=sharing
-Get the ISO here: 
+Get the ISO here: NOT YET AVAILABLE!
 Get ROMs here: https://archive.org/download/mame-0.221-roms-merged
